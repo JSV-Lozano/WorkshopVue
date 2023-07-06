@@ -1,0 +1,189 @@
+{
+  "jobs": [
+    {
+      "logo": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/52905/19.png",
+      "id": 1,
+      "title": "Diseñador Web",
+      "empresa": "Direktio",
+      "logoEmpresa": "../src/assets/bx-buildings.svg",
+      "ubicacion": "Remoto-Colombia",
+      "logoUbi": "../src/assets/bxs-map.svg",
+      "pago": "$4k - 6.5K USD",
+      "logoPago": "../src/assets/bx-money.svg",
+      "vacantes": "1 vantante",
+      "logoVacante": "../src/assets/bxs-group.svg",
+      "publicado": "5 days",
+      "logoPublicado": "../src/assets/bxs-group.svg",
+      "empresaOfrece": [
+        {
+          "name": "Buen ambiente",
+          "logo": "../src/assets/bxs-group.svg"
+        },
+        { "name": "Vesting", "logo": "../src/assets/bx-money.svg" }
+      ],
+      "skills": [
+        { "name": "React" },
+        { "name": "Html" },
+        { "name": "Css" },
+        { "name": "Python" },
+        { "name": "JavaScript" }
+      ]
+    },
+    {
+      "logo": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/80893/offiemedicas.png",
+      "id": 2,
+      "title": "Auxiliar de almacén",
+      "empresa": "OFFIMEDICAS S.A",
+      "logoEmpresa": "../src/assets/bx-buildings.svg",
+      "ubicacion": "Presencial",
+      "logoUbi": "../src/assets/bxs-map.svg",
+      "pago": "$1.3M COP",
+      "logoPago": "../src/assets/bx-money.svg",
+      "vacantes": "3vantante",
+      "logoVacante": "../src/assets/bxs-group.svg",
+      "publicado": "2 days",
+      "logoPublicado": "../src/assets/bxs-group.svg",
+      "empresaOfrece": [
+        {
+          "name": "Buen ambiente",
+          "logo": "../src/assets/bxs-group.svg"
+        },
+        { "name": "Vesting", "logo": "../src/assets/bx-money.svg" }
+      ],
+      "skills": [{ "name": "Supervisión" }, { "name": "Result Oriented" }]
+    },
+    {
+      "logo": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/11337/Dentaid.png",
+      "id": 3,
+      "title": "Supervisor Visitado Médica",
+      "empresa": "Dentaid",
+      "logoEmpresa": "../src/assets/bx-buildings.svg",
+      "ubicacion": "Remoto-Brazil",
+      "logoUbi": "../src/assets/bxs-map.svg",
+      "pago": "$4k - 6.5K USD",
+      "logoPago": "../src/assets/bx-money.svg",
+      "vacantes": "1 vantante",
+      "logoVacante": "../src/assets/bxs-group.svg",
+      "publicado": "5 days",
+      "logoPublicado": "../src/assets/bxs-group.svg",
+      "empresaOfrece": [
+        {
+          "name": "Buen ambiente",
+          "logo": "../src/assets/bxs-group.svg"
+        },
+        { "name": "Vesting", "logo": "../src/assets/bx-money.svg" }
+      ],
+      "skills": [
+        { "name": "Excel" },
+        { "name": "B2b Sales" },
+        { "name": "Liderazgo" }
+      ]
+    },
+    {
+      "logo": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/32555/Magno-logo-black.jpg",
+      "id": 4,
+      "title": "Auxiliar de inventario y decorado ",
+      "empresa": "Magno Chocolates",
+      "logoEmpresa": "../src/assets/bx-buildings.svg",
+      "ubicacion": "Presencial",
+      "logoUbi": "../src/assets/bxs-map.svg",
+      "pago": "$4k - 6.5K USD",
+      "logoPago": "../src/assets/bx-money.svg",
+      "vacantes": "1 vantante",
+      "logoVacante": "../src/assets/bxs-group.svg",
+      "publicado": "1 days",
+      "logoPublicado": "../src/assets/bxs-group.svg",
+      "empresaOfrece": [
+        {
+          "name": "Buen ambiente",
+          "logo": "../src/assets/bxs-group.svg"
+        },
+        { "name": "Vesting", "logo": "../src/assets/bx-money.svg" }
+      ],
+      "skills": [
+        { "name": "Excel" },
+        { "name": "Excel Basic" },
+        { "name": "Inventories" }
+      ]
+    },
+    {
+      "logo": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/61916/descarga_(1).jpg",
+      "id": 5,
+      "title": "Diseñador Flutter",
+      "empresa": "Phonon X",
+      "logoEmpresa": "../src/assets/bx-buildings.svg",
+      "ubicacion": "Remoto",
+      "logoUbi": "../src/assets/bxs-map.svg",
+      "pago": "$50K - 65K USD",
+      "logoPago": "../src/assets/bx-money.svg",
+      "vacantes": "3 vantante",
+      "logoVacante": "../src/assets/bxs-group.svg",
+      "publicado": "2 days",
+      "logoPublicado": "../src/assets/bxs-group.svg",
+      "empresaOfrece": [
+        {
+          "name": "Buen ambiente",
+          "logo": "../src/assets/bxs-group.svg"
+        },
+        { "name": "Vesting", "logo": "../src/assets/bx-money.svg" }
+      ],
+      "skills": [{ "name": "Flutter" }]
+    },
+    {
+      "logo": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/75862/logo_keifi.jpg",
+      "id": 6,
+      "title": "Desarrollador Back-End",
+      "empresa": "Keifi SAS",
+      "logoEmpresa": "../src/assets/bx-buildings.svg",
+      "ubicacion": "Remoto",
+      "logoUbi": "../src/assets/bxs-map.svg",
+      "pago": "$4k - 6.5K USD",
+      "logoPago": "../src/assets/bx-money.svg",
+      "vacantes": "1 vantante",
+      "logoVacante": "../src/assets/bxs-group.svg",
+      "publicado": "5 days",
+      "logoPublicado": "../src/assets/bxs-group.svg",
+      "empresaOfrece": [
+        {
+          "name": "Buen ambiente",
+          "logo": "../src/assets/bxs-group.svg"
+        },
+        { "name": "Vesting", "logo": "../src/assets/bx-money.svg" }
+      ],
+      "skills": [
+        { "name": "Java" },
+        { "name": "Postman" },
+        { "name": "Microservices" }
+      ]
+    },
+    {
+      "logo": "https://s3-us-west-2.amazonaws.com/peaku-public/business/Company/logo_url/52905/19.png",
+      "id": 7,
+      "title": "Diseñador Web",
+      "empresa": "Direktio",
+      "logoEmpresa": "../src/assets/bx-buildings.svg",
+      "ubicacion": "Remoto-Colombia",
+      "logoUbi": "../src/assets/bxs-map.svg",
+      "pago": "$4k - 6.5K USD",
+      "logoPago": "../src/assets/bx-money.svg",
+      "vacantes": "1 vantante",
+      "logoVacante": "../src/assets/bxs-group.svg",
+      "publicado": "5 days",
+      "logoPublicado": "../src/assets/bxs-group.svg",
+      "empresaOfrece": [
+        {
+          "name": "Buen ambiente",
+          "logo": "../src/assets/bxs-group.svg"
+        },
+        { "name": "Vesting", "logo": "../src/assets/bx-money.svg" }
+      ],
+      "skills": [
+        { "name": "React" },
+        { "name": "Html" },
+        { "name": "Css" },
+        { "name": "Python" },
+        { "name": "JavaScript" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+.container_ListJobs {
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.container_CardJobs {
+  max-width: 100vw;
+}
+.cardJobs {
+  max-width: 100vw;
+  display: flex;
+  cursor: pointer;
+  margin-bottom: 30px;
+  transition: all 0.5s ease-in-out;
+}
+.cardJobs:hover {
+  box-shadow: 0 5px #88888857;
+}
+.logo img {
+  width: 100px;
+  height: 100px;
+  margin-right: 100px;
+}
+.conatiner_Title {
+  display: flex;
+  margin-bottom: 10px;
+}
+.conatiner_Title h2 {
+  font-size: 2.6rem;
+  margin-right: 10px;
+  color: rgb(85, 85, 85);
+  transition: all 0.4s ease;
+}
+.conatiner_Title h2:hover {
+  color: #000;
+}
+.conatiner_Title div p {
+  font-size: 1.3rem;
+  margin-right: 20px;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+.infoJobs {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.jobsInfo {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.Info img {
+  width: 20px;
+  height: 20px;
+}
+.Info p {
+  font-size: 1.4rem;
+  margin-left: 5px;
+}
+.empreOfr {
+  width: 200px;
+  display: flex;
+}
+.empreOfr img {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 10px;
+}
